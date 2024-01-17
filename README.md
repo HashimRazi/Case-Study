@@ -1,2 +1,2 @@
 # Case-Study
-Case Study and Insights of Indian Restaurants
+Case Study and Insights of Restaurants and Indian startups
